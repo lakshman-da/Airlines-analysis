@@ -62,5 +62,16 @@ This structured dataset is ideal for both exploratory and predictive analysis of
 
 ---
 
-## 🧱 Project Structure
+## 🤝 Contributing  
+Contributions are welcome!
+
+If you'd like to improve this project, feel free to fork the repository and submit a pull request. Feedback, issues, and feature suggestions are also greatly appreciated!
+
+---
+
+## ⭐ Support
+
+Thank you for visiting this project!  
+If you liked it, feel free to **⭐ star the repo** and share your thoughts or suggestions!
+
 
